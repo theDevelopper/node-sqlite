@@ -49,8 +49,8 @@
       "import/no-extraneous-dependencies": "off"
     }
   },
-  "dependencies": {
-    "sqlite3": "3.1.13"
+  "peerDependencies": {
+    "sqlite3": ">=3.1.13"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",
